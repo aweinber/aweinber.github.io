@@ -1,5 +1,5 @@
 ---
-permalink: tour-dates
+permalink: /tour-dates/
 title: Tour Dates
 layout: posts
 ---
