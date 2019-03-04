@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: blog-content
 title: "We Are Pill Popping Doctors"
 ---
 
